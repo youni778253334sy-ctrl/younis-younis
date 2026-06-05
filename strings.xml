@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نظام إدارة الشبكة</string>
+    <string name="welcome">مرحباً بك</string>
+    <string name="modem_management">إدارة المودمات</string>
+    <string name="switch_management">إدارة السويتشات</string>
+    <string name="outage_management">إدارة الأعطال</string>
+    <string name="user_management">إدارة المستخدمين</string>
+</resources>
